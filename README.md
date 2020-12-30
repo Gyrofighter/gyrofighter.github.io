@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+# Обо мне
 
-Тестовая строчка, проверка работы
+![Photo](https://raw.githubusercontent.com/Gyrofighter/gyrofighter.github.io/master/Image/Image1.png)
+
+|ФИО| Рашев Евгений Анатольевич|
+|:----------------|:----------------|
+|Дата рождения | 17.12.1987 (33 года)|
+|Телефон|  +7 916-792-48-97|
+|Почта|  gyrofighter@gmail.com|
 
 You can use the [editor on GitHub](https://github.com/Gyrofighter/gyrofighter.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
