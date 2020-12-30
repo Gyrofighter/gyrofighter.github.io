@@ -18,7 +18,7 @@
 
 ### Образование и курсы
 - Высшее образование - МИУ "Московский Институт Управления" - Финансовый Менеджмент
-- Победитель конкурса на интенсиве "[Skillbox](https://youtu.be/ofUYAFL-FsM?t=4975)"
+- Победитель конкурса на интенсиве [Skillbox](https://youtu.be/ofUYAFL-FsM?t=4975)
 ### Опыт работы
 - ООО "Экстрим Ассистанс" - Старший кредитный специалист - с 2015
 - АО "Альфа-Банк" - Кредитный специалист - с 2011 по 2015
@@ -29,6 +29,6 @@
 
 ### The Desolation
 Данный проект был воссоздан мной в одиночку, представляет собой классический шутер от первого лица с элементами скримеров. Вся логика написана исключительно на Blueprient.
-- GitHub https://github.com/Gyrofighter/the-desolation
-- GameJolt https://gamejolt.com/games/TheDesolation/549094
-- YouTube https://youtu.be/cc6_9-JF_sI
+- Репозиторий на [GitHub](https://github.com/Gyrofighter/the-desolation)
+- Страница игры на [GameJolt](https://gamejolt.com/games/TheDesolation/549094)
+- Трейлер на [YouTube](https://youtu.be/cc6_9-JF_sI)
