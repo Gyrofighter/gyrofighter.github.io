@@ -1,6 +1,6 @@
 # Обо мне
 
-![Photo](https://raw.githubusercontent.com/Gyrofighter/gyrofighter.github.io/master/Image/Image1.png)
+![Photo](https://raw.githubusercontent.com/Gyrofighter/gyrofighter.github.io/master/Image/Image3.png)
 
 |ФИО| Рашев Евгений Анатольевич|
 |:----------------|:----------------|
