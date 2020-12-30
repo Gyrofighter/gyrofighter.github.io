@@ -1,4 +1,4 @@
-## Обо мне
+## Резюме
 
 ![Photo](https://raw.githubusercontent.com/Gyrofighter/gyrofighter.github.io/master/Image/Image3.png)
 
@@ -9,23 +9,27 @@
 |Почта|  gyrofighter@gmail.com|
 
 ### Навыки
-Хорошее знание Unreal Engine 4
-Программирование на С++ и Blueprints
-Понимание алгоритмов, структур данных и принципов ООП
-Опыт работы с Git
-Опыт командной разработки
-Анлгийский Intermediate
+- Опыт работы с Unreal Engine 4 (1 год)
+- Программирование на С++ и Blueprints
+- Понимание алгоритмов, структур данных и принципов ООП
+- Опыт работы с Git
+- Опыт командной разработки
+- Анлгийский Intermediate
 
-### Образование
-Высшее
-МИУ "Московский Институт Управления"
-Финансовый Менеджмент
-
+### Образование и курсы
+- Высшее образование - МИУ "Московский Институт Управления" - Финансовый Менеджмент
+- Победитель конкурса на интенсиве "[Skillbox](https://youtu.be/ofUYAFL-FsM?t=4975)"
 ### Опыт работы
+- ООО "Экстрим Ассистанс" - Старший кредитный специалист - с 2015
+- АО "Альфа-Банк" - Кредитный специалист - с 2011 по 2015
 
-You can use the [editor on GitHub](https://github.com/Gyrofighter/gyrofighter.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+-----------------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Проекты
+
+
+
+
 
 ### Markdown
 
