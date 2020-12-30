@@ -1,4 +1,4 @@
-# Обо мне
+## Обо мне
 
 ![Photo](https://raw.githubusercontent.com/Gyrofighter/gyrofighter.github.io/master/Image/Image3.png)
 
@@ -7,6 +7,21 @@
 |Дата рождения | 17.12.1987 (33 года)|
 |Телефон|  +7 916-792-48-97|
 |Почта|  gyrofighter@gmail.com|
+
+### Навыки
+Хорошее знание Unreal Engine 4
+Программирование на С++ и Blueprints
+Понимание алгоритмов, структур данных и принципов ООП
+Опыт работы с Git
+Опыт командной разработки
+Анлгийский Intermediate
+
+### Образование
+Высшее
+МИУ "Московский Институт Управления"
+Финансовый Менеджмент
+
+### Опыт работы
 
 You can use the [editor on GitHub](https://github.com/Gyrofighter/gyrofighter.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
